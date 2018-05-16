@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Þetta er test á ísl stöfum = þæöð"
+title: "Þetta er test á æ ö ð ý"
 categories: junk
 author: "Bart Simpson"
 meta: "Springfield"
@@ -9,7 +9,8 @@ meta: "Springfield"
 ## Þó jörðin renni sinn gang
 ### það breytir engu 
 #### það spurning um þolinmæði
-eða hvað er málið?
+
+Þolinmæði þrautir vinnur allar
 
 ## Some great heading (h2)
 
