@@ -6,10 +6,9 @@ author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-## Þó að jörðin renni sinn gang
-### og það breyti engu en um sinn
-
-enn er það spurning um þolinmæði?
+## Þó jörðin renni sinn gang
+### það breytir engu 
+#### er það spurning um þolinmæði?
 
 ## Some great heading (h2)
 
