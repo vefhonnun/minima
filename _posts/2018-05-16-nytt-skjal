@@ -7,4 +7,4 @@ meta: "Springfield"
 ---
 
 ## skjalið er stofnað á GitHub.
-:bomp: passið upp á að vera á réttri grein, **gh-pages** þegar pistlar eru skrifaðir hér á :octocat:
+:bomb: passið upp á að vera á réttri grein, **gh-pages** þegar pistlar eru skrifaðir hér á :octocat:
