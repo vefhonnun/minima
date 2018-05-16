@@ -8,7 +8,8 @@ meta: "Springfield"
 
 ## Þó jörðin renni sinn gang
 ### það breytir engu 
-#### er það spurning um þolinmæði?
+#### það spurning um þolinmæði
+eða hvað?
 
 ## Some great heading (h2)
 
